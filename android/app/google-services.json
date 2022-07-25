@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90582397133",
+    "project_id": "imagodpi-659ff",
+    "storage_bucket": "imagodpi-659ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90582397133:android:fff79b57261ab4d832b984",
+        "android_client_info": {
+          "package_name": "br.com.carlos.imago_dpi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90582397133-2trgnavffgi7eqhcq951q5kqe87meuf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZwzgRdF8_vKVSmdU8BhODjGXSdSs_KCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90582397133-2trgnavffgi7eqhcq951q5kqe87meuf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
